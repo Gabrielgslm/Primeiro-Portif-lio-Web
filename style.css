@@ -1,0 +1,51 @@
+    img {
+        border-radius: 100%;
+    }
+    
+    .nome-fonte {
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    }
+    
+    .descrição {
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .button {
+        color: #ffffff;
+        background-color: #43aa8b;
+        padding: 10px;
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 600;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+
+    .nome-fonte.centralizado{
+        text-align: center;
+    }
+
+    .pai {
+        height: 300px;
+        text-align: center;
+        background-color: #99d98c;
+        padding-top: 20px;
+
+    }
+
+    .filho {
+        float: left;
+        margin-left: 10px;
+    }
+    
+    .filho-2 {
+        height: 30%;
+        text-align: center;
+        padding: 50px 30px 50px;
+        margin: auto;
+    }
+
+    .margin {
+        margin: 0px;
+        margin-top: 0px;
+    }
